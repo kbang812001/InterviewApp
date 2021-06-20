@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+    <string name="create_interview">Create interview</string>
+    <string name="back">back</string>
+    <string name="add_interview">Add Interview</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="save_interview">Save Interview</string>
+    <string name="participant_name">Participant Name</string>
+</resources>
